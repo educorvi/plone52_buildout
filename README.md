@@ -79,6 +79,12 @@ extends =
 ``` 
 * ~/$projectname > ./bin/buildout
 
+Zielsysteme für Plone Version 5.2.9
+-----------------------------------
+
+- Ubuntu 22.04 LTS
+- Python 3.10.6
+
 Zielsysteme für Plone Version 5.2.5
 -----------------------------------
 
